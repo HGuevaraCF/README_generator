@@ -4,7 +4,7 @@
 
 ### Table of contents
 
-- [Wolfinance](#wolfinance)
+
   - [Table of contents](#table-of-contents)
   - [Description](#description)
   - [Install](#install)
