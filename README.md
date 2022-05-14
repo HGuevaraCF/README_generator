@@ -21,8 +21,8 @@ This project is intended to provide the user with a simple and fast way to creat
 ### Install
 
 
-    npm install inquirer
-    npm install inquirer-file-tree-selection-prompt
+   - npm install inquirer
+   - npm install inquirer-file-tree-selection-prompt
 
 
 ### Usage
@@ -30,6 +30,10 @@ This project is intended to provide the user with a simple and fast way to creat
 
 ![link](./Assets/README.png)
 
+
+### Walktrough video
+
+![link](https://youtu.be/xoq2N7Svrzs)
 
 ### Questions
 
