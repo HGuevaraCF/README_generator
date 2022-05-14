@@ -4,37 +4,39 @@
 
 ### Table of contents
 
-- [Table of contents](#table-of-contents)
-- [Description](#description)
-- [Install](#install)
-- [Usage](#usage)
-- [Questions](#questions)
-- [License](#license)
+- [Wolfinance](#wolfinance)
+  - [Table of contents](#table-of-contents)
+  - [Description](#description)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Questions](#questions)
+  - [License](#license)
 
 ### Description
 
 
-This app is designed to provide the user a tool to improve its personal finances and saving habits. Due that this app keeps track of each of your daily expenses. The UI takes the user step by step to save each of the spences, When the user finishes adding the expenses, this information gets saved in Local Storage to have it available for any time the user requires it.
+This project is intended to provide the user with a simple and fast way to create a high quality README file wich contains information about description, installation, license and contact.
 
 
 ### Install
 
 
-    npm install --save
+    npm install inquirer
+    npm install inquirer-file-tree-selection-prompt
 
 
 ### Usage
 
 
-![link](./Assets/wolfinance.png)
+![link](./Assets/README.png)
 
 
 ### Questions
 
 
 For further questions, you can find me at:
-- github account: user github account.
-- email: user@mail.com.
+- github account: HGuevaraCF.
+- email: ht.guevara@hotmail.com.
 
 
 
