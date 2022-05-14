@@ -1,4 +1,4 @@
-## aaaa
+## Wolfinance
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -14,13 +14,13 @@
 ### Description
 
 
-
+This app is designed to provide the user a tool to improve its personal finances and saving habits. Due that this app keeps track of each of your daily expenses. The UI takes the user step by step to save each of the spences, When the user finishes adding the expenses, this information gets saved in Local Storage to have it available for any time the user requires it.
 
 
 ### Install
 
 
-    npm install \n install
+    npm install --save
 
 
 ### Usage
@@ -33,8 +33,8 @@
 
 
 For further questions, you can find me at:
-- github account: a.
-- email: a.
+- github account: user github account.
+- email: user@mail.com.
 
 
 
