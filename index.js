@@ -23,7 +23,7 @@ const generateREADME = (name, licenseSet, licenseText, description, install, usa
 ### Description
 
 
-    ${description}
+${description}
 
 
 ### Install
@@ -41,9 +41,9 @@ const generateREADME = (name, licenseSet, licenseText, description, install, usa
 ### Questions
 
 
-    For further questions, you can find me at:
-    - github account: ${account}.
-    - email: ${email}.
+For further questions, you can find me at:
+- github account: ${account}.
+- email: ${email}.
 
 
 ### License

@@ -14,7 +14,7 @@
 ### Description
 
 
-    The project is intended to provide a simple and fast way to create a high quality readme file with all the information needed to let the final user know all the information
+The project is intended to provide a simple and fast way to create a high quality readme file with all the information needed to let the final user know all the information
 
 
 ### Install
@@ -32,9 +32,9 @@
 ### Questions
 
 
-    For further questions, you can find me at:
-    - github account: hector.github.
-    - email: elur96@hotmail.com.
+For further questions, you can find me at:
+- github account: hector.github.
+- email: elur96@hotmail.com.
 
 
 ### License
