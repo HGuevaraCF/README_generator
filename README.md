@@ -1,4 +1,4 @@
-## Example project
+## aaaa
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -14,13 +14,13 @@
 ### Description
 
 
-The project is intended to provide a simple and fast way to create a high quality readme file with all the information needed to let the final user know all the information
+
 
 
 ### Install
 
 
-    npm install --save
+    npm install \n install
 
 
 ### Usage
@@ -33,8 +33,10 @@ The project is intended to provide a simple and fast way to create a high qualit
 
 
 For further questions, you can find me at:
-- github account: hectorgithub.
-- email: elur96@hotmail.com.
+- github account: a.
+- email: a.
+
+
 
 
 ### License

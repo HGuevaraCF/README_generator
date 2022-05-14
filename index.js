@@ -1,9 +1,7 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-// const fileSelector = require('./index.js');
 const inquirerFileTreeSelection = require('inquirer-file-tree-selection-prompt')
 
-// inquirer.registerPrompt('file-tree-selection', fileSelector);
 inquirer.registerPrompt('file-tree-selection', inquirerFileTreeSelection)
 
 const generateREADME = (name, licenseSet, licenseText, description, install, file, account, email) =>
@@ -44,6 +42,8 @@ ${description}
 For further questions, you can find me at:
 - github account: ${account}.
 - email: ${email}.
+
+
 
 
 ### License
