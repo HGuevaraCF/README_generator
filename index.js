@@ -6,7 +6,7 @@ const inquirerFileTreeSelection = require('inquirer-file-tree-selection-prompt')
 // inquirer.registerPrompt('file-tree-selection', fileSelector);
 inquirer.registerPrompt('file-tree-selection', inquirerFileTreeSelection)
 
-const generateREADME = (name, licenseSet, licenseText, description, install, usage, account, email) =>
+const generateREADME = (name, licenseSet, licenseText, description, install, file, account, email) =>
 `## ${name}
 
 [![License](${licenseSet})
@@ -35,7 +35,7 @@ ${description}
 ### Usage
 
 
-    ![alt text](${usage})
+    ![alt text](./Assets/${file})
 
 
 ### Questions
@@ -851,8 +851,9 @@ Public License instead of this License.  But first, please read
             9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.`;
             break;
     }
-   
-    const filecontent = generateREADME(data.name, licenseSet, licenseText, data.description, data.install, data.usage, data.account, data.email);
+     let mockupArray = data.usage.split('/');
+     let file = mockupArray[mockupArray.length -1];
+    const filecontent = generateREADME(data.name, licenseSet, licenseText, data.description, data.install, file, data.account, data.email);
 
     fs.writeFile('README.md', filecontent, (err) =>
       err ? console.log(err) : console.log('Success!')
