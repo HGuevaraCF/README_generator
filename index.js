@@ -22,28 +22,28 @@ const generateREADME = (name, licenseSet, licenseText, description, install, usa
 
 ### Description
 
-'''md
-${description}
-'''
+
+    ${description}
+
 
 ### Install
 
 
-npm ${install}
+    npm ${install}
 
 
 ### Usage
 
 
-![alt text](${usage})
+    ![alt text](${usage})
 
 
 ### Questions
 
 
-For further questions, you can find me at:
-- github account: ${account}.
-- email: ${email}.
+    For further questions, you can find me at:
+    - github account: ${account}.
+    - email: ${email}.
 
 
 ### License

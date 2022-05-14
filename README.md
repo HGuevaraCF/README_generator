@@ -1,4 +1,4 @@
-## aa
+## Example project
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -13,28 +13,28 @@
 
 ### Description
 
-'''md
-a
-'''
+
+    The project is intended to provide a simple and fast way to create a high quality readme file with all the information needed to let the final user know all the information
+
 
 ### Install
 
 
-npm 
+    npm install --save
 
 
 ### Usage
 
 
-![alt text](C:\Users\htgue\OneDrive\Documentos\GitHub\README_generator\Assets\wolfinance.png)
+    ![alt text](C:\Users\htgue\OneDrive\Documentos\GitHub\README_generator\Assets\wolfinance.png)
 
 
 ### Questions
 
 
-For further questions, you can find me at:
-- github account: aa.
-- email: aa.
+    For further questions, you can find me at:
+    - github account: hector.github.
+    - email: elur96@hotmail.com.
 
 
 ### License
