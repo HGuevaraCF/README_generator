@@ -27,7 +27,7 @@ a
 ### Usage
 
 
-    ![link](https://github.com/HGuevaraCF/README_generator/blob/main/Assets/gif.gif?raw=true)
+![link](./Assets/gif.gif)
 
 
 ### Questions
