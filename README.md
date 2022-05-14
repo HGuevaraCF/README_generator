@@ -1,41 +1,40 @@
-## aa
+## Example project
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ### Table of contents
 
-- [aa](#aa)
-  - [Table of contents](#table-of-contents)
-  - [Description](#description)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Questions](#questions)
-  - [License](#license)
+- [Table of contents](#table-of-contents)
+- [Description](#description)
+- [Install](#install)
+- [Usage](#usage)
+- [Questions](#questions)
+- [License](#license)
 
 ### Description
 
 
-a
+The project is intended to provide a simple and fast way to create a high quality readme file with all the information needed to let the final user know all the information
 
 
 ### Install
 
 
-    npm a
+    npm install --save
 
 
 ### Usage
 
 
-![link](./Assets/gif.gif)
+![link](./Assets/wolfinance.png)
 
 
 ### Questions
 
 
 For further questions, you can find me at:
-- github account: a.
-- email: a.
+- github account: hectorgithub.
+- email: elur96@hotmail.com.
 
 
 ### License
