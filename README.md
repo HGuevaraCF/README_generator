@@ -33,7 +33,7 @@ This project is intended to provide the user with a simple and fast way to creat
 
 ### Walktrough video
 
-![link](https://youtu.be/xoq2N7Svrzs)
+    https://youtu.be/xoq2N7Svrzs
 
 ### Questions
 
